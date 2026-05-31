@@ -1,0 +1,15 @@
+body {
+    /* Links to your background image file */
+    background-image: url('Pictures/TPRK-Logo.png');
+    
+    /* This tells the browser to repeat it on both X and Y axes */
+    background-repeat: repeat;
+    
+    /* Ensures the background starts smoothly in the top-left corner */
+    background-position: top left;
+    
+    /* Clears default browser spacing */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
